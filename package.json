@@ -1,0 +1,24 @@
+{
+	"name": "rest-api-shop",
+	"version": "1.0.0",
+	"description": "A node.js RESTful API",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/barbaraimperatori/building-a-RESTful-API.git"
+	},
+	"keywords": [
+		"node",
+		"restful",
+		"api"
+	],
+	"author": "Barbara Imperatori",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/barbaraimperatori/building-a-RESTful-API/issues"
+	},
+	"homepage": "https://github.com/barbaraimperatori/building-a-RESTful-API"
+}
