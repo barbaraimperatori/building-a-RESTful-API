@@ -20,5 +20,8 @@
 	"bugs": {
 		"url": "https://github.com/barbaraimperatori/building-a-RESTful-API/issues"
 	},
-	"homepage": "https://github.com/barbaraimperatori/building-a-RESTful-API"
+	"homepage": "https://github.com/barbaraimperatori/building-a-RESTful-API",
+	"dependencies": {
+		"express": "^4.17.1"
+	}
 }
